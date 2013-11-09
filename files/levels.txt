@@ -1,0 +1,3 @@
+2
+backgrounds/level01.bmp backgrounds/pokemon.png 4 4 0 3 15 18 
+backgrounds/level02.bmp backgrounds/pokemon.png 4 4 0 3 15 18

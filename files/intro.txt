@@ -1,0 +1,13 @@
+backgrounds/intro01.png 1
+backgrounds/intro02.png 1 
+backgrounds/intro03a.png 0.1
+backgrounds/intro03b.png 0.1
+backgrounds/intro03c.png 0.1
+backgrounds/intro03d.png 0.1
+backgrounds/intro03e.png 0.1
+backgrounds/intro03f.png 0.5
+backgrounds/intro03g.png 0.1
+backgrounds/intro03h.png 0.1
+backgrounds/intro03i.png 0.1
+backgrounds/intro03j.png 0.1
+backgrounds/intro03k.png 0.6
